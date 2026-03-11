@@ -60,7 +60,7 @@ This dashboard helps answer the following questions:
 
 ## Main Dashboard
 
-![Dashboard Overview](ADD_IMAGE_HERE)
+![Dashboard Overview](/Data Jobs Salary PowerBi Dashboard.mov)
 
 ---
 
