@@ -60,13 +60,7 @@ This dashboard helps answer the following questions:
 
 ## Main Dashboard
 
-![Dashboard Overview](/Data Jobs Salary PowerBi Dashboard.mov)
-
----
-
-## Data Analyst Drillthrough
-
-![Data Analyst Drillthrough](ADD_IMAGE_HERE)
+![Dashboard Overview](./Resources/BiDash.gif)
 
 ---
 
